@@ -25,12 +25,13 @@
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain.svg" />
 <br />
 
+#
+<details>
 ### 📊 Stats
 
 [![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnumano)](https://github.com/vishnumano/github-readme-stats)
 
 #
-
 <details>
  <summary><h3>👨‍💻 Vishnu's Coding Journey</h3></summary>
    I’m a freshman at the Georgia Institute of Technology, pursuing a double major in Computer Science and Mathematics. My love for building solutions to real-world problems inspired me to launch my transportation startup, Spotter, which is an app that helps drivers find open parking spots. I'm looking forward to expand my ability to create technology that helps communities across the world through internships this upcoming summer!
