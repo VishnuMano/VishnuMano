@@ -31,8 +31,8 @@
 [![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnumano)](https://github.com/vishnumano/github-readme-stats)
 
 #
- <summary><h3>👨‍💻 Vishnu's Coding Journey</h3></summary>
-I’m a freshman at the Georgia Institute of Technology, pursuing a double major in Computer Science and Mathematics. My love for building solutions to real-world problems inspired me to launch my transportation startup, Spotter, which is an app that helps drivers find open parking spots. I'm looking forward to expand my ability to create technology that helps communities across the world through internships this upcoming summer!
+### 👨‍💻 Vishnu's Coding Journey
+I’m a freshman at the Georgia Institute of Technology, pursuing a double major in Computer Science and Mathematics. My love for building solutions to real-world problems inspired me to launch my transportation startup, Spotter, which is an app that helps drivers find open parking spots and analyzes parking data for governments and organizations. I'm looking forward to expand my ability to create technology that helps communities across the world through internships this upcoming summer!
 
 [website]: https://vishnumano.com/
 [linkedin]: https://www.linkedin.com/in/vishnumano/
