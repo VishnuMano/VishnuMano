@@ -1,6 +1,6 @@
 # 🧙‍♂️ Vishnu Mano
 
-**`Founder @ Spotter | CS + Math @ Georgia Tech | ML Researcher @ GT CSPAV`**
+**`Incoming MLE Intern @ ROC | CS + Math @ Georgia Tech | ML Researcher @ GT CSPAV`**
 
 - 🔭 I’m currently working on Spotter, an app that helps drivers find open parking spots
 - 🧪 I’m currently researching pedestrian trajectory prediction by applying machine learning architectures
