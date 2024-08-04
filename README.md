@@ -2,7 +2,6 @@
 
 **`CS + Math @ Georgia Tech`**
 
-- 🔭 I’m currently working on Spotter, an app that helps drivers find open parking spots
 - 🧪 I’m currently researching pedestrian trajectory prediction by applying machine learning architectures
 - 🌱 I’m currently learning about biometric identification and its applications in user authentication for browser-based platforms
 - 📫 How to reach me: www.linkedin.com/in/vishnumano/
